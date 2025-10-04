@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-[Link to the deployed Streamlit App](PASTE YOUR STREAMLIT APP LINK HERE)
+[Link to the deployed Streamlit App](https://aiothomework1-u6eygc2ddkkvuesvuv7mkx.streamlit.app/)
 
 ---
 
